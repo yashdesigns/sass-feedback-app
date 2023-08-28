@@ -1,0 +1,770 @@
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 825px;
+  height: 151px;
+}
+.pathIcon {
+  height: 69.57%;
+  width: 40.91%;
+  top: 17.39%;
+  right: 59.09%;
+  bottom: 13.04%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b,
+.pathIcon,
+.pathParent {
+  position: absolute;
+}
+.b {
+  width: 40.91%;
+  top: calc(50% - 11.5px);
+  left: 59.09%;
+  letter-spacing: -0.22px;
+  display: inline-block;
+}
+.pathParent {
+  height: 24.21%;
+  width: 5.78%;
+  top: 37.89%;
+  right: 0;
+  bottom: 37.89%;
+  left: 94.22%;
+  overflow: hidden;
+  text-align: center;
+}
+.addTagsFor,
+.easierToSearch {
+  position: absolute;
+  left: 10.51%;
+}
+.addTagsFor {
+  margin: 0;
+  top: calc(50% - 47.5px);
+  font-size: 18px;
+  letter-spacing: -0.25px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.easierToSearch {
+  top: calc(50% - 17.5px);
+  color: #647196;
+}
+.rectangle1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f2f4fe;
+}
+.b1,
+.path2Icon,
+.rectangle1 {
+  position: absolute;
+}
+.b1 {
+  top: calc(50% - 0.5px);
+  left: 22.5%;
+  letter-spacing: -0.18px;
+}
+.path2Icon {
+  height: 11.55%;
+  width: 23.54%;
+  top: 23.75%;
+  right: 37.4%;
+  bottom: 64.7%;
+  left: 39.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle2,
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangleGroup {
+  height: 55.79%;
+  width: 5.26%;
+  right: 94.74%;
+  bottom: 44.21%;
+  overflow: hidden;
+  text-align: center;
+  font-size: 13px;
+}
+.rectangle2 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: 10px;
+  background-color: #f2f4ff;
+}
+.enhancement {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 14.41%;
+  font-weight: 600;
+}
+.group,
+.rectangleContainer {
+  position: absolute;
+  overflow: hidden;
+}
+.rectangleContainer {
+  height: 31.58%;
+  width: 14.59%;
+  top: 68.42%;
+  right: 74.9%;
+  bottom: 0;
+  left: 10.51%;
+  font-size: 13px;
+  color: #4661e6;
+}
+.group {
+  top: 28px;
+  left: 32px;
+  width: 761px;
+  height: 95px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 190px;
+  left: 450px;
+  width: 825px;
+  height: 151px;
+  text-align: left;
+}
+.bulb1Icon,
+.pathGroup {
+  position: absolute;
+  top: 101px;
+  left: 482px;
+  width: 23px;
+  height: 24px;
+  overflow: hidden;
+}
+.pathGroup {
+  height: 24.21%;
+  width: 5.78%;
+  top: 37.89%;
+  right: 0;
+  bottom: 37.89%;
+  left: 94.22%;
+}
+.allowImagevideoUp,
+.imagesAndScreencas {
+  position: absolute;
+  left: 10.51%;
+  text-align: left;
+}
+.allowImagevideoUp {
+  top: calc(50% - 47.5px);
+  font-size: 18px;
+  letter-spacing: -0.25px;
+}
+.imagesAndScreencas {
+  top: calc(50% - 17.5px);
+  color: #647196;
+}
+.b3 {
+  position: absolute;
+  top: calc(50% - 0.5px);
+  left: 31.25%;
+  letter-spacing: -0.18px;
+}
+.enhancement1,
+.groupDiv {
+  position: absolute;
+  font-size: 13px;
+}
+.groupDiv {
+  height: 55.79%;
+  width: 5.26%;
+  top: 0;
+  right: 94.74%;
+  bottom: 44.21%;
+  left: 0;
+  overflow: hidden;
+}
+.enhancement1 {
+  top: calc(50% - 10px);
+  left: 14.41%;
+  font-weight: 600;
+  font-family: Jost;
+  color: #4661e6;
+  text-align: left;
+}
+.groupButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 31.58%;
+  width: 14.59%;
+  top: 68.42%;
+  right: 74.9%;
+  bottom: 0;
+  left: 10.51%;
+  overflow: hidden;
+}
+.group3Copy {
+  top: 703px;
+  left: 450px;
+  width: 825px;
+  height: 151px;
+}
+.b5,
+.feature,
+.group3Copy {
+  position: absolute;
+}
+.b5 {
+  top: calc(50% - 0.5px);
+  left: 27.5%;
+  letter-spacing: -0.18px;
+}
+.feature {
+  top: calc(50% - 10px);
+  left: 20.78%;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: Jost;
+  color: #4661e6;
+  text-align: left;
+}
+.rectangleParent3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 31.58%;
+  width: 10.12%;
+  top: 68.42%;
+  right: 79.37%;
+  bottom: 0;
+  left: 10.51%;
+  overflow: hidden;
+}
+.pathParent1,
+.rectangleParent1 {
+  position: absolute;
+  top: 361px;
+  left: 450px;
+  width: 825px;
+  height: 151px;
+}
+.pathParent1 {
+  height: 38.98%;
+  width: 5.78%;
+  top: 61.02%;
+  right: 0;
+  bottom: 0;
+  left: 94.22%;
+  overflow: hidden;
+}
+.challengeSpecificQ,
+.qaWithinThe {
+  position: absolute;
+  left: 10.51%;
+  text-align: left;
+}
+.qaWithinThe {
+  top: calc(50% - 29.5px);
+  font-size: 18px;
+  letter-spacing: -0.25px;
+}
+.challengeSpecificQ {
+  top: calc(50% + 0.5px);
+  color: #647196;
+}
+.b7 {
+  position: absolute;
+  top: calc(50% - 0.5px);
+  left: 28.75%;
+  letter-spacing: -0.18px;
+}
+.rectangleParent5 {
+  position: absolute;
+  height: 89.83%;
+  width: 5.26%;
+  top: 0;
+  right: 94.74%;
+  bottom: 10.17%;
+  left: 0;
+  overflow: hidden;
+  font-size: 13px;
+}
+.frameGroup,
+.rectangleParent6 {
+  position: absolute;
+  top: 28px;
+  left: 32px;
+  width: 761px;
+  height: 59px;
+  overflow: hidden;
+}
+.rectangleParent6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 93px;
+  left: 112px;
+  width: 77px;
+  height: 30px;
+}
+.group7Copy,
+.rectangleParent4 {
+  position: absolute;
+  top: 532px;
+  left: 450px;
+  width: 825px;
+  height: 151px;
+}
+.group7Copy {
+  top: 874px;
+}
+.b10 {
+  position: absolute;
+  width: 40.91%;
+  top: calc(50% - 11.5px);
+  left: 59.09%;
+  letter-spacing: -0.22px;
+  display: inline-block;
+  opacity: 0.5;
+  mix-blend-mode: normal;
+}
+.headingtext {
+  margin: 0;
+  top: calc(50% - 47.5px);
+  left: 10.51%;
+  font-size: 18px;
+  letter-spacing: -0.25px;
+  font-weight: 700;
+  font-family: inherit;
+  text-align: left;
+}
+.b11,
+.bug,
+.headingtext {
+  position: absolute;
+}
+.b11 {
+  top: calc(50% - 0.5px);
+  left: 40%;
+  letter-spacing: -0.18px;
+}
+.bug {
+  top: calc(50% - 10px);
+  left: 28.57%;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: Jost;
+  color: #4661e6;
+  text-align: left;
+}
+.rectangleParent10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 31.58%;
+  width: 7.36%;
+  top: 68.42%;
+  right: 82.13%;
+  bottom: 0;
+  left: 10.51%;
+  overflow: hidden;
+}
+.group11Copy,
+.rectangle18 {
+  position: absolute;
+  top: 1045px;
+  left: 450px;
+  width: 825px;
+  height: 151px;
+}
+.rectangle18 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #373f68;
+  height: 72px;
+}
+.groupChild {
+  width: 160px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 26px;
+  left: 218px;
+}
+.suggestions {
+  margin: 0;
+  position: absolute;
+  top: calc(50% - 13px);
+  left: 25%;
+  font-size: inherit;
+  letter-spacing: -0.25px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.bulb2Icon,
+.suggestionsParent {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 23px;
+  height: 24px;
+  overflow: hidden;
+}
+.suggestionsParent {
+  top: 23px;
+  left: 24px;
+  width: 156px;
+  height: 26px;
+}
+.rectangle19 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #ad1fea;
+}
+.addFeedback {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: 15.19%;
+  font-size: 14px;
+  font-family: Jost;
+  color: #f2f4fe;
+  text-align: left;
+}
+.btnn {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 14px;
+  left: 651px;
+  width: 158px;
+  height: 44px;
+  overflow: hidden;
+}
+.groupHeader {
+  position: absolute;
+  top: 94px;
+  left: 450px;
+  width: 825px;
+  height: 72px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Jost;
+}
+.rectangle20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 255px;
+  height: 166px;
+}
+.rectangleParent12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 111px;
+  height: 30px;
+  overflow: hidden;
+}
+.rectangle22 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #4661e6;
+}
+.all {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 33.33%;
+  font-weight: 600;
+}
+.group10Copy {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48px;
+  height: 30px;
+  overflow: hidden;
+  color: #fff;
+}
+.group10Copy2,
+.group10Copy3,
+.group10Copy4,
+.group10Copy5 {
+  position: absolute;
+  top: 0;
+  left: 56px;
+  width: 48px;
+  height: 30px;
+  overflow: hidden;
+}
+.group10Copy2,
+.group10Copy3,
+.group10Copy5 {
+  left: 112px;
+}
+.group10Copy2,
+.group10Copy3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 88px;
+  left: 0;
+  width: 77px;
+}
+.group10Copy3 {
+  top: 44px;
+  left: 125px;
+  width: 56px;
+}
+.frameParent2 {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  width: 181px;
+  height: 118px;
+}
+.rectangleParent11 {
+  position: absolute;
+  top: 161px;
+  left: 0;
+  width: 255px;
+  height: 166px;
+}
+.rectangle27 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 255px;
+  height: 178px;
+}
+.rectangle27,
+.roadmap,
+.view {
+  position: absolute;
+}
+.roadmap {
+  top: calc(50% - 13px);
+  left: 0;
+  letter-spacing: -0.25px;
+}
+.view {
+  top: calc(50% - 9px);
+  left: 85.51%;
+  font-size: 13px;
+  text-decoration: underline;
+  font-weight: 600;
+  color: #4661e6;
+}
+.roadmapParent {
+  position: absolute;
+  top: 19px;
+  left: 24px;
+  width: 207px;
+  height: 26px;
+  overflow: hidden;
+  font-size: 18px;
+  color: #3a4374;
+}
+.planned {
+  top: calc(50% - 11.5px);
+  left: 11.59%;
+}
+.b12,
+.oval,
+.planned {
+  position: absolute;
+}
+.b12 {
+  top: calc(50% - 11.5px);
+  left: 94.69%;
+  text-align: right;
+}
+.oval {
+  height: 34.78%;
+  width: 3.86%;
+  top: 30.43%;
+  right: 96.14%;
+  bottom: 34.78%;
+  left: 0;
+  border-radius: 50%;
+  background-color: #f49f85;
+}
+.plannedParent {
+  top: 69px;
+  left: 24px;
+  width: 207px;
+  height: 23px;
+  overflow: hidden;
+}
+.b13,
+.oval1,
+.plannedParent {
+  position: absolute;
+}
+.b13 {
+  top: calc(50% - 11.5px);
+  left: 95.17%;
+  text-align: right;
+}
+.oval1 {
+  height: 34.78%;
+  width: 3.86%;
+  top: 30.43%;
+  right: 96.14%;
+  bottom: 34.78%;
+  left: 0;
+  border-radius: 50%;
+  background-color: #ad1fea;
+}
+.group19Copy {
+  top: 100px;
+  left: 24px;
+  width: 207px;
+  height: 23px;
+  overflow: hidden;
+}
+.b14,
+.group19Copy,
+.oval2 {
+  position: absolute;
+}
+.b14 {
+  top: calc(50% - 11.5px);
+  left: 95.65%;
+  text-align: right;
+}
+.oval2 {
+  height: 34.78%;
+  width: 3.86%;
+  top: 30.43%;
+  right: 96.14%;
+  bottom: 34.78%;
+  left: 0;
+  border-radius: 50%;
+  background-color: #62bcfa;
+}
+.group19Copy2 {
+  position: absolute;
+  top: 131px;
+  left: 24px;
+  width: 207px;
+  height: 23px;
+  overflow: hidden;
+}
+.rectangleParent13 {
+  position: absolute;
+  top: 351px;
+  left: 0;
+  width: 255px;
+  height: 178px;
+  font-size: 16px;
+  color: #647196;
+}
+.ovalIcon {
+  top: 0;
+  width: 255px;
+  height: 137px;
+}
+.eqaim,
+.feedbackBoard,
+.ovalIcon {
+  position: absolute;
+  left: 0;
+}
+.eqaim {
+  margin: 0;
+  top: calc(50% - 25.5px);
+  font-size: inherit;
+  letter-spacing: -0.25px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.feedbackBoard {
+  top: calc(50% + 3.5px);
+  font-size: 15px;
+  font-weight: 500;
+  opacity: 0.75;
+  mix-blend-mode: normal;
+}
+.eqaimParent {
+  position: absolute;
+  top: 62px;
+  left: 24px;
+  width: 153px;
+  height: 51px;
+  overflow: hidden;
+}
+.groupParent,
+.ovalParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 255px;
+  height: 137px;
+  font-size: 20px;
+  color: #fff;
+}
+.groupParent {
+  top: 94px;
+  left: 165px;
+  height: 529px;
+  text-align: left;
+  font-size: 13px;
+  color: #4661e6;
+}
+.desktopSuggestions {
+  position: relative;
+  background-color: #f7f8fd;
+  width: 100%;
+  height: 1325px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #3a4374;
+  font-family: Jost;
+}
